@@ -6,7 +6,7 @@ int main()
     char grade;
     float gpa;
 
-    scanf("%d %f %c", &age, &gpa, &grade);
+    scanf("%d  %f  %c", &age, &gpa, &grade);
     
     // 순서 
     printf("%d %f %c\n", age, gpa, grade);
